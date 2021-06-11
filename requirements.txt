@@ -1,0 +1,6 @@
+# Generated with `pipreqs app.ipynb --print`
+requests
+ipywidgets
+numpy
+pandas
+Pillow
