@@ -1,7 +1,11 @@
 voila
 # Generated with `pipreqs app.ipynb --print`
+scipy
+pandas
+numpy
+plotly
 requests
 ipywidgets
-numpy
-pandas
-Pillow
+faiss
+matplotlib
+pillow
